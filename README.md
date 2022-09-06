@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **Blender**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **Java, C++**
 
 - 📫 How to reach me **prabh156dps@gmail.com**
 
-- ⚡ Fun fact **I have tiny dick!**
+- ⚡ Fun fact **I thought the dryer was shrinking my clothes. Turns out it was the refrigerator all along!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
