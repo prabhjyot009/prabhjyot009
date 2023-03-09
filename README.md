@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prabhjyot Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="Coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjyot009&label=Profile%20views&color=6600ff&style=flat" alt="prabhjyot009" /> </p>
 
@@ -25,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhjyotsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhjyotsingh009/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhjyotsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhjyotsingh009" height="30" width="40" /></a>
 <a href="https://instagram.com/prabhjyot_009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhjyot_009" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/prabhjyot009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prabhjyot009/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/prabhjyot009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabhjyot009" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
