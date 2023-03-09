@@ -1,4 +1,4 @@
-[![MasterHead](https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_360_Wide_16x9.gif)]](https://rishavchanda.io)
+[![MasterHead](https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_360_Wide_16x9.gif)]
 <h1 align="center">Hi 👋, I'm Prabhjyot Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
