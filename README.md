@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/97103333/223954088-612e8b8d-487c-4cbe-8a51-eaee50590075.gif)
+![banner](https://user-images.githubusercontent.com/97103333/223966150-91dff73d-9dcd-4489-9cf4-67a7824fc536.gif)
 <h1 align="center">Hi 👋, I'm Prabhjyot Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
