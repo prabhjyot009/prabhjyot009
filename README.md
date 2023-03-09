@@ -1,4 +1,3 @@
-[![MasterHead](https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_360_Wide_16x9.gif)]
 <h1 align="center">Hi 👋, I'm Prabhjyot Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -24,10 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/prabhjyotsingh009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/prabhjyotsingh009" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhjyotsingh009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhjyotsingh009/" height="30" width="40" /></a>
 <a href="https://instagram.com/prabhjyot_009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhjyot_009" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prabhjyot009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prabhjyot009" height="30" width="40" /></a>
-<a href="https://discord.gg/710354129591205960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="710354129591205960" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/prabhjyot009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/prabhjyot009/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
