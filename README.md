@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Full Stack Development](https://trainings.internshala.com/)
 
-- 🌱 I’m currently learning **Android Porgramming, Unreal Engine, React Js, Python**
+- 🌱 I’m currently learning **Android Porgramming, Blender , React Js, Python**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🤝 I’m looking for help with **Unreal Engine**
+- 🤝 I’m looking for help with **Blender**
 
 - 💬 Ask me about **Blender, C++, Css, Html,**
 
