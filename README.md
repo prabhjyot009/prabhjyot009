@@ -1,11 +1,10 @@
 ![banner](https://user-images.githubusercontent.com/97103333/223966150-91dff73d-9dcd-4489-9cf4-67a7824fc536.gif)
-<h1 align="center">Hi 👋, I'm Prabhjyot Singh  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Prabhjyot Singh  
 </h1>
 
 <p align="center">
   <a href="https://github.com/prabhjyot009/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;A%20Competitive%20Gamer&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23"></a>
 </p>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjyot009&label=Profile%20views&color=6600ff&style=flat" alt="prabhjyot009" /> </p>
