@@ -1,5 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/97103333/223966150-91dff73d-9dcd-4489-9cf4-67a7824fc536.gif)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Prabhjyot Singh  
+<h1 align="center">Hi 👋, I'm Prabhjyot Singh  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/prabhjyot009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prabhjyot009" height="30" width="40" /></a>
