@@ -1,5 +1,5 @@
 ![banner](https://user-images.githubusercontent.com/97103333/223966150-91dff73d-9dcd-4489-9cf4-67a7824fc536.gif)
-<h1 align="center">Hi 👋, I'm Prabhjyot Singh  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Prabhjyot Singh  
 </h1>
 
 <p align="center">
