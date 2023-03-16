@@ -1,5 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/97103333/223966150-91dff73d-9dcd-4489-9cf4-67a7824fc536.gif)
-<h1 align="center">Hi 👋, I'm Prabhjyot Singh</h1>
+<h1 align="center">Hi 👋, I'm Prabhjyot Singh  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
 <p align="center">
   <a href="https://github.com/prabhjyot009/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Full-Stack%20Web%20Development;A%20Self%20Taught%20Developer;A%20Quick%20Learner;A%20Competitive%20Gamer&font=Fira%20Code&center=true&width=500&height=45&color=1aff1a&vCenter=true&size=23"></a>
 </p>
