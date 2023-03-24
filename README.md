@@ -55,4 +55,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjyot009&theme=dark" alt="prabhjyot009"/>
 </p>
 
-[![Spotify](https://novatorem-git-master-prabhjyot009.vercel.app/api/spotify)](https://open.spotify.com/user/eyc8cxbtgpdtriikuyvxibqgw)
+[![Spotify](https://novatorem-two-lac.vercel.app/api/spotify)](https://open.spotify.com/user/eyc8cxbtgpdtriikuyvxibqgw)
