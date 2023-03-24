@@ -45,11 +45,12 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjyot009&show_icons=true&theme=dark&locale=en&layout=compact" alt="prabhjyot009" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhjyot009&show_icons=true&theme=dark&locale=en" alt="prabhjyot009" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjyot009&theme=dark" alt="prabhjyot009" /></p>
 <div align="center">
   <a href="https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ">
     <img src="https://spotify-now-playing-4PULA4EFzYTrxYvOVlwpiQ.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify now playing Sidhu Moosewala"/>
   </a>
 </div>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhjyot009&show_icons=true&theme=dark&locale=en" alt="prabhjyot009" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjyot009&theme=dark" alt="prabhjyot009" /></p>
