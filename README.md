@@ -55,5 +55,4 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjyot009&theme=dark" alt="prabhjyot009"/>
 </p>
 
-#️⃣#️⃣#️⃣ Spotify Playing 🎧
-[<img src="https://novatorem-git-master-prabhjyot009.vercel.app/api/spotify-playing" alt="Spotify Now Playing width="350" />](https://open.spotify.con/user/https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ)
+[![Spotify](https://novatorem-git-master-prabhjyot009.vercel.app/api/spotify)](https://open.spotify.com/user/eyc8cxbtgpdtriikuyvxibqgw)
