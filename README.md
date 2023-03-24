@@ -50,3 +50,17 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjyot009&show_icons=true&theme=dark&locale=en&layout=compact" alt="prabhjyot009" width="45%"/> 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjyot009&theme=dark" alt="prabhjyot009" width="50%"/>
 </div>
+
+<div align="center">
+  <a href="https://github.com/prabhjyot009#user-activity-overview">
+    <img align="center" src="https://github-readme-stats-prabhjyot009.vercel.app/api/top-langs?username=prabhjyot009&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" alt="Prabhjyot top languages used" />
+    <img align="center" src="https://github-readme-stats-prabhjyot009.vercel.app/api?username=prabhjyot009&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="Prabhjyot contributions overview" height="220" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ">
+    <img src="https://spotify-now-playing-prabhjyot009.vercel.app/api/spotify?background_color=181413&border_color=ffffff)" alt="Spotify now playing Sidhu Moosewala"/>
+  </a>
+</div>
+<br>
