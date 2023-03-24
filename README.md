@@ -47,9 +47,8 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 
-<div align="center">
-  <a href="https://github.com/prabhjyot009#user-activity-overview">
-    <img align="center" src="https://github-readme-stats-prabhjyot009.vercel.app/api/top-langs?username=prabhjyot009&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&layout=slim&hide_border=true&langs_count=4" height="220" alt="Prabhjyot top languages used" />
-    <img align="center" src="https://github-readme-stats-prabhjyot009.vercel.app/api?username=prabhjyot009&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=181413&locale=en&hide_border=true&include_all_commits=true" alt="Prabhjyot contributions overview" height="220" />
-  </a>
+
+<div align="auto">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjyot009&show_icons=true&theme=dark&locale=en&layout=compact" alt="prabhjyot009" width="55%"/> 
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjyot009&theme=dark" alt="prabhjyot009" width="50%"/>
 </div>
