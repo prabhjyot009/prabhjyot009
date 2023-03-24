@@ -56,5 +56,5 @@
 </p>
 
 &nbsp;<div align="center">
-[![Spotify](https://novatorem-two-lac.vercel.app/api/spotify?/background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/eyc8cxbtgpdtriikuyvxibqgw)
+[![Spotify](https://novatorem-two-lac.vercel.app/api/spotify?background_color=8b0000&border_color=ffffff)](https://open.spotify.com/user/eyc8cxbtgpdtriikuyvxibqgw)
 </div>
