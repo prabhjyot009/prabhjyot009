@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/prabhjyot009" target="blank"><img src="https://img.shields.io/twitter/follow/prabhjyot009?logo=twitter&style=for-the-badge" alt="prabhjyot009" /></a> </p>
 
-- 🔭 I’m currently working on [Full Stack Development](https://trainings.internshala.com/)
+- 🔭 I’m currently working on Java DSA Foundation Course and [Full Stack Development](https://trainings.internshala.com/)
 
 - 🌱 I’m currently learning **Android Porgramming, Blender , React Js, Python**
 
