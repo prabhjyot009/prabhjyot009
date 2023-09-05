@@ -13,15 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/prabhjyot009" target="blank"><img src="https://img.shields.io/twitter/follow/prabhjyot009?logo=twitter&style=for-the-badge" alt="prabhjyot009" /></a> </p>
 
-- 🔭 I’m currently working on Java DSA Foundation Course and [Full Stack Development](https://trainings.internshala.com/)
+- 🔭 I’m currently working on the Machine learning concepts, Java DSA Foundation Course and [Full Stack Development](https://trainings.internshala.com/)
 
-- 🌱 I’m currently learning **Android Porgramming, Blender , React Js, Python**
+- 🌱 I’m currently learning **Android Programming, Blender, React Js, Python**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 🤝 I’m looking for help with **Blender**
 
-- 💬 Ask me about **Blender, C++, Css, Html,**
+- 💬 Ask me about **Blender, C++, Css, Html, Machine Learning**
 
 - 📫 How to reach me **prabh156dps@gmail.com**
 
